@@ -1,0 +1,16 @@
+Taxpayer_ID,Full_Name,Phone_Number,Email,Address,Date_of_Birth
+TAX001,ANTHONY,541234567,anthony@gmail,Accra,5/12/1998
+TAX002,Anthony,2.34E+11,,Accra Ghana,12/5/1998
+TAX003,Akosua Mensah,2.33E+11,akosua.mensah@yahoo.com,Kumasi,11/3/1995
+TAX004,AKOSUA MENSAH,245678901,akosua.mensah@,Kumasi Ghana,3/11/1995
+TAX005,Kwame Asare,,kwame.asare@gmail.com,Tema,7/21/1992
+TAX006,K. Asare,201234567,kwame.asare@gmail.com,Tema Ghana,21/07/1992
+TAX007,Efua Owusu,559876543,efua.owusu@gmail.com,Cape Coast,2/10/1999
+TAX008,Efua Owusu,559876543,efua.owusu@gmail.com,Cape Coast,2/10/1999
+TAX009,Kojo Boateng,271112223,kojo.boateng@gmail.com,Takoradi,9/15/1990
+TAX010,Kojo B.,271112223,kojo.boateng@gmail,Takoradi Ghana,15/09/1990
+TAX011,Ama Serwaa,invalid_number,ama.serwaa@gmail.com,Accra,3/8/1997
+TAX012,,503334444,ama.serwaa@gmail.com,Accra Ghana,8/3/1997
+TAX013,Yaw Ofori,240001111,yaw.ofori@gmail.com,Koforidua,6/30/1993
+TAX014,Yaw Ofori,240001111,yaw.ofori@gmail.com,Koforidua,6/30/1993
+TAX015,Michael Adu,265557777,michael.adu@gmail.com,,12/1/1988
